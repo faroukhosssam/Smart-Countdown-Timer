@@ -12,7 +12,7 @@ The timer will count down and display the remaining time in the format `HH:MM:SS
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/Smart-Countdown-Timer.git
+   git clone https://github.com/faroukhosssam/Smart-Countdown-Timer.git
    cd Smart-Countdown-Timer
    ```  
 
